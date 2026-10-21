@@ -1311,6 +1311,16 @@ footer .contact-form button.filled-button:hover {
 	color: #fff;
 }
 
+.page-heading8 {
+	text-align: center;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(../images/buckhorn-reno-after3.JPG);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
+
 
 .page-heading h1 {
 	text-transform: capitalize;
