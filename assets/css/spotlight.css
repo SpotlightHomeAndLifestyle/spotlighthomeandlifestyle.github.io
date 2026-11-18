@@ -1349,6 +1349,15 @@ footer .contact-form button.filled-button:hover {
 	padding: 230px 0px 150px 0px;
 	color: #fff;
 }
+.page-heading12 {
+	text-align: center;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(../images/island-bunkie2.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
 
 .page-heading h1 {
 	text-transform: capitalize;
